@@ -15,7 +15,15 @@
 * https://github.com/wesleybowman/UTide - Python re-implementation of the Matlab package UTide.
 ### ET and Eddy Covariance
 * https://github.com/NASA-DEVELOP/METRIC - For estimating daily evapotranspiration from Landsat data 
+* https://github.com/adamhsparks/EddyCleanR - Fills gaps and removes outliers in eddy covariance data.
+* https://github.com/bgctw/REddyProc - Processing data from micrometeorological Eddy-Covariance systems 
+* https://github.com/usda-ars-ussl/fluxpart - Python module for partitioning eddy covariance flux measurements. 
+* https://github.com/June-Spaceboots/EddyCovarianceProcessing - A collection of code used to processess Eddy Covaraince Data
+* https://github.com/sunxm19/Planetary_boundary_height_for_FFP - extracting boundary height within North America from NOAA regional data
+* https://github.com/UofM-CEOS/flux_capacitor - https://github.com/UofM-CEOS/flux_capacitor
+* https://github.com/wsular/EasyFlux-DL-CR3000 - CR3000 datalogger program for Campbell open-path eddy-covariance systems
 ### Data Access
+#### Services
 * https://github.com/ulmo-dev/ulmo - clean, simple and fast access to public hydrology and climatology data. 
 * https://github.com/aleaf/pydrograph - Get and process stream flows and groundwater levels from NWIS. 
 * https://github.com/NWQMC/WQP-WQX-Services - The core data services for Water Quality Portal 
@@ -23,6 +31,8 @@
 * https://github.com/ODM2/WOFpy - A server-side implementation of CUAHSI's Water One Flow service stack in Python. 
 * https://github.com/mesowx/MesoPy - A Python wrapper for the MesoWest environmental data API 
 * https://github.com/hydroshare/hydroshare - HydroShare is a collaborative website for better access to data and models in the hydrologic sciences. 
+#### Dataloggers
+* https://github.com/mattjenkins3/SinglePlant_Irrigation_DataTool - CR3000 datalogger program for Campbell open-path eddy-covariance systems
 ### Modeling
 Look in the time-series modeling section for time-series specific models
 #### Models
@@ -30,6 +40,7 @@ Look in the time-series modeling section for time-series specific models
 * https://github.com/NMTHydro/Recharge - Python code to model recharge and ET 
 * https://github.com/peckhams/topoflow - Spatial hydrologic model (D8-based, fully BMI-compliant)
 * https://github.com/mbakker7/timml - An analytic element model for steady multi-layer flow 
+ * https://github.com/Hugovdberg/QgsTIM - QGIS frontend for TimML library 
 * https://github.com/smwesten-usgs/swb2_examples - This repository contains three working examples for use with the SWB version 2.0 code. 
 * https://github.com/WilcoTerink/SPHY - Spatial Processes in HYdrology (SPHY) model 
 * https://github.com/DHI-GRAS/qgis-processing-swat - QGIS Processing provider for SWAT based hydrological modelling.
@@ -46,6 +57,7 @@ Look in the time-series modeling section for time-series specific models
 * https://github.com/Applied-Groundwater-Modeling-2nd-Ed - GW modeling teaching/supporting material provided by the community
 #### Ouput Processing
 * https://github.com/micha-silver/WRF-Hydro - Scripts for managing data from WRF-Hydro model 
+* https://github.com/brclark-usgs/NHGtools - Scripts to develop sub-National grids based on the National Hydrogeologic Grid 
 ### Geochemistry
 * https://github.com/YoJimboDurant/pyNADA - attempt to create python version of R package NADA 
 * https://github.com/CamDavidsonPilon/lifelines - Survival analysis in Python 
