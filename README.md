@@ -148,6 +148,7 @@ See Optimization for PEST-related packages
 * https://github.com/MODFLOW-USGS/modflow6-examples - Collection of MODFLOW 6 example models 
 * https://github.com/langevin-usgs/mf6flopy2019_classrepo - Class repository for the MODFLOW 6 / Flopy workshop held in Delft
 * https://github.com/jdhughes-usgs/MM2019_FloPy - MODFLOW and More 2019 FloPy Short Course Repository 
+* https://github.com/rniswon/mfnwt - MODFLOW-NWT - Version: 1.1.0 Newton Formulation for MODFLOW-2005 
 
 #### Models
 * https://github.com/Applied-Groundwater-Modeling-2nd-Ed - GW modeling teaching/supporting material provided by the community
