@@ -324,7 +324,7 @@ See Optimization for PEST-related packages
 * https://github.com/bpurinton/GNSS-Correction-RTKLIB - GNSS Collection and Post-Processing with RTKLIB 
 * https://github.com/usgs/gems-tools-arcmap - Tools for working with the GeMS geologic map database schema in ArcGIS 
 * https://github.com/usgs/gems-tools-pro - GeMS Tools for ArcGIS Pro 
-*
+* https://github.com/softwareunderground/subsurface - Core library for subsurface science and engineering 
 
 
 ## Geophysics
