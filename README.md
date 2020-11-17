@@ -53,7 +53,7 @@
 * https://github.com/USGS-R/HASP - Hydrologic AnalySis Package 
 * https://github.com/ArtesiaWater/hydropandas - Module for loading observation data into custom DataFrames 
 * https://github.com/ArtesiaWater/waterbalans - calculating water balances as developed by Maarten Ouboter
-
+* https://github.com/waterhackweek/waterdata - Tuesday tutorials: data access, time series and spatial data analyses 
 #### Frequency Analysis
 * https://github.com/aaren/wavelets - Python implementation of the wavelet analysis found in Torrence and Compo (1998)
 * https://github.com/krischer/mtspec - Python library for multitaper spectral estimations 
@@ -88,6 +88,9 @@
 * https://github.com/cgmorton/RefET-GEE - ASCE Standardized Reference Evapotranspiration Functions for Google Earth Engine (GEE) 
 * https://github.com/usbr/et-demands - Dual crop coefficient crop water demand model 
 * https://github.com/kratzert/pyTSEB - two Source Energy Balance model for estimation of evapotranspiration with remote sensing data 
+* https://github.com/spizwhiz/openet-ssebop-beta - Earth Engine SSEBop ET Model 
+* https://github.com/pblankenau2/openet-core-beta - OpenET Core Components 
+* https://github.com/jnelson18/ecosystem-transpiration - Code and examples of how to estimate transpiration from eddy covariance data. 
 
 ### Data Access
 #### Services
@@ -207,6 +210,7 @@ See Optimization for PEST-related packages
 * https://github.com/Geosyntec/wqio - Water quality analysis 
 * https://github.com/flashliquid/PiperPython - Plot Piper waterquality diagrams using python 
 * https://github.com/morganjwilliams/pyrolite - A set of tools for getting the most from your geochemical data. 
+* https://github.com/bjodah/chempy - A package useful for chemistry written in Python 
 
 ### Well Logs, Boreholes, Cross-Sections and Structure
 * https://github.com/ethoms-usgs/Cross-Section - Geoprocessing tools for working with geologic cross-sections in ArcGIS 
@@ -305,6 +309,7 @@ See Optimization for PEST-related packages
 * https://github.com/dandrino/terrain-erosion-3-ways - Three Ways of Generating Terrain with Erosion Features
 * https://github.com/utah-geological-survey/RuffSurfFinder - Set of codes built by Matthew Morriss to measure surface roughness 
 * https://github.com/awickert/gFlex - methods to solve elastic plate flexure
+* https://github.com/hrmartens/LoadDef - LoadDef: A Python-based toolkit to model elastic deformation caused by surface mass loading
 * https://github.com/softwareunderground/awesome-open-geoscience - repositories that make our lives as geoscientists, hackers and data wranglers easier
 * https://github.com/usgs/shakemap - Near-real-time maps of ground motion and shaking intensity
 * https://github.com/usgs/groundmotion-processing - Parsing and processing ground motion data 
@@ -317,6 +322,9 @@ See Optimization for PEST-related packages
 * https://github.com/yohanesnuwara/open-geoscience-repository - Open geoscience computing of open geoscience datasets available in open databases
 * https://github.com/alainmuls/pyRTKLib - Processing / plotting of RINEX based GPS & Galileo data 
 * https://github.com/bpurinton/GNSS-Correction-RTKLIB - GNSS Collection and Post-Processing with RTKLIB 
+* https://github.com/usgs/gems-tools-arcmap - Tools for working with the GeMS geologic map database schema in ArcGIS 
+* https://github.com/usgs/gems-tools-pro - GeMS Tools for ArcGIS Pro 
+*
 
 
 ## Geophysics
