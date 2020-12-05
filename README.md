@@ -63,7 +63,8 @@
 * https://github.com/alsauve/scaleogram - Scaleogram plot for Continuous Wavelet Transform made easy 
 * https://github.com/gespinoza/hants - Harmonic ANalysis of Time Series (HANTS) applied to geographic data
 * https://github.com/scikit-signal/tftb - time-frequency analysis 
-* https://github.com/christurnadge/05_Cardiff_and_Barrash_2015_solutions - calculate the sensitivity of the amplitude and phase of oscillatory signals to hydraulic parameters 
+* https://github.com/christurnadge/05_Cardiff_and_Barrash_2015_solutions - calculate the sensitivity of the amplitude and phase of oscillatory signals to hydraulic parameters
+* https://github.com/OverLordGoldDragon/ssqueezepy - Synchrosqueezing Toolbox ported to Python
 #### Earth Tides
 * https://github.com/pwcazenave/tappy - Tidal Analysis Program in PYthon (TAPPY) uses the least squares optimization function from scipy to perform a harmonic analysis
 * https://github.com/wesleybowman/UTide - Python re-implementation of the Matlab package UTide.
