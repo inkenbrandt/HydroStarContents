@@ -26,6 +26,7 @@
 * https://github.com/fraunhoferportugal/tsfel - An intuitive library to extract features from time series 
 * https://github.com/hydrogeoscience/HydroGeoSines - Signal In the Noise Exploration Software for hydrogeological datasets
 * https://github.com/HydroGeoSines/HydroGeoSines - Signal In the Noise Exploration Software for hydrogeological datasets
+* https://github.com/bashtage/linearmodels - Add linear models including instrumental variable and panel data models that are missing from statsmodels. 
 #### Time-series Modeling
 * https://github.com/facebook/prophet - Tool for producing high quality forecasts for time series data that has multiple seasonality
 * https://github.com/pastas/pastas - open-source Python framework for the analysis of hydrological time series
@@ -75,7 +76,7 @@
 * https://github.com/NumericalEnvironmental/Pumping_Test_Interpretation_with_Python -  interpretation of aquifer pumping tests
 * https://github.com/GeoStat-Framework/AnaFlow - analytical solutions for the groundwater flow equation
 * https://github.com/GeoStat-Framework/welltestpy - package for handling well based field campaigns.
-* 
+
 ### ET and Eddy Covariance
 * https://github.com/NASA-DEVELOP/METRIC - For estimating daily evapotranspiration from Landsat data 
 * https://github.com/adamhsparks/EddyCleanR - Fills gaps and removes outliers in eddy covariance data.
@@ -136,6 +137,8 @@ Look in the time-series modeling section for time-series specific models
 * https://github.com/driftingtides/hyvr - A package for simulating hydrogeological virtual realities. 
 * https://github.com/djdahlstrom/modeling-tools - Tools and utilities to facilitate groundwater flow and contaminant transport modeling. 
 * https://github.com/Ouranosinc/raven - Hydrological modeling and calibration WPS services 
+* https://github.com/usgs/linesink-maker - Rapidly build GFLOW models from GIS hydrography data 
+* https://github.com/usgs/sfrmaker - Rapid construction of MODFLOW SFR Package input from hydrography data. 
 #### MODFLOW
 See Optimization for PEST-related packages
 * https://github.com/modflowpy/flopy A Python package to create, run, and post-process MODFLOW-based models. 
