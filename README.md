@@ -242,6 +242,7 @@ See Optimization for PEST-related packages
 * https://github.com/rasbt/python-machine-learning-book-2nd-edition - Python Machine Learning
 * https://github.com/uwescience/Online-Educational-Resources - Online resources for data science education
 * https://github.com/giswqs/qgis-earthengine-examples - A collection of 290+ Python examples for using Google Earth Engine in QGIS
+* https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers - An introduction to Bayesian methods + probabilistic programming
 
 ## Statistics
 * https://github.com/ibab/python-mle A Python package for performing Maximum Likelihood Estimates 
