@@ -35,6 +35,7 @@
 * https://github.com/usbr/PyForecast - statistical modeling tool to predict seasonal inflows and streamflows.
 * https://github.com/paulozip/arauto - An open-source tool for quick Time Series Analysis and Forecasting
 * https://github.com/alkaline-ml/pmdarima - A statistical library designed to fill the void in Python's time series analysis capabilities
+* https://github.com/facebookresearch/Kats - Kats, a kit to analyze time series data
 #### Hydrology
 * https://github.com/hydrogeog/hydro - Tools for quantitative analysis of the hydrologic system
 * https://github.com/stijnvanhoey/hydropy - Analysis of hydrological oriented time series. 
@@ -66,6 +67,7 @@
 * https://github.com/scikit-signal/tftb - time-frequency analysis 
 * https://github.com/christurnadge/05_Cardiff_and_Barrash_2015_solutions - calculate the sensitivity of the amplitude and phase of oscillatory signals to hydraulic parameters
 * https://github.com/OverLordGoldDragon/ssqueezepy - Synchrosqueezing Toolbox ported to Python
+* https://github.com/kymatio/kymatio - Wavelet scattering transforms in Python with GPU acceleration
 #### Earth Tides
 * https://github.com/pwcazenave/tappy - Tidal Analysis Program in PYthon (TAPPY) uses the least squares optimization function from scipy to perform a harmonic analysis
 * https://github.com/wesleybowman/UTide - Python re-implementation of the Matlab package UTide.
