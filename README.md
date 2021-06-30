@@ -56,6 +56,7 @@
 * https://github.com/ArtesiaWater/hydropandas - Module for loading observation data into custom DataFrames 
 * https://github.com/ArtesiaWater/waterbalans - calculating water balances as developed by Maarten Ouboter
 * https://github.com/waterhackweek/waterdata - Tuesday tutorials: data access, time series and spatial data analyses 
+* https://pygeoprocessing.readthedocs.io/en/latest/index.html - Flow routing
 #### Frequency Analysis
 * https://github.com/aaren/wavelets - Python implementation of the wavelet analysis found in Torrence and Compo (1998)
 * https://github.com/krischer/mtspec - Python library for multitaper spectral estimations 
@@ -280,6 +281,7 @@ See Optimization for PEST-related packages
 * https://github.com/GeostatsGuy/GeostatsPy_Intro_Course - Introduction to spatial data analytics and machine learning with GeostatsPy Python package
 * https://github.com/MuellerSeb/GSTools-EGU2020 - EGU2020 Presentation for GSTools
 * https://github.com/pysal/tobler - Areal interpolation 
+* https://github.com/szymon-datalions/pyinterpolate - Geostatistics
 ### Good Tools and Compilations
 * https://github.com/aleaf/GIS_utils - some functions for working with the Python GIS toolchain (fiona, shapely, pyproj, etc.)
 * https://github.com/sshuair/awesome-gis - Awesome GIS is a collection of geospatial related sources
