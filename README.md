@@ -96,6 +96,8 @@
 * https://github.com/spizwhiz/openet-ssebop-beta - Earth Engine SSEBop ET Model 
 * https://github.com/pblankenau2/openet-core-beta - OpenET Core Components 
 * https://github.com/jnelson18/ecosystem-transpiration - Code and examples of how to estimate transpiration from eddy covariance data. 
+* https://github.com/bgctw/REddyProc - Processing data from micrometeorological Eddy-Covariance systems
+* https://github.com/Open-ET/flux-data-qaqc - Energy Balance Closure Analysis and Eddy Flux Data Post-Processing
 
 ### Data Access
 #### Services
