@@ -98,6 +98,7 @@
 * https://github.com/jnelson18/ecosystem-transpiration - Code and examples of how to estimate transpiration from eddy covariance data. 
 * https://github.com/bgctw/REddyProc - Processing data from micrometeorological Eddy-Covariance systems
 * https://github.com/Open-ET/flux-data-qaqc - Energy Balance Closure Analysis and Eddy Flux Data Post-Processing
+* https://github.com/tomchor/pymicra - A Python tool for Micrometeorological Analysis
 
 ### Data Access
 #### Services
